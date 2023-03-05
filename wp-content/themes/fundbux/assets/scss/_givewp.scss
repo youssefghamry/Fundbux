@@ -1,0 +1,344 @@
+.give-payment-mode-label {
+    font-family: $heading-font;
+}
+
+#give_checkout_user_info {
+    legend {
+        font-family: $heading-font;
+    }
+}
+
+.give-form-wrap {
+
+    form {
+
+        &.give-form {
+    
+            #give-purchase-form-wrap {
+                padding-top: 40px;
+                border-top: 1px solid #e5e5e5;
+                margin-bottom: 50px;
+            
+                .form-row {
+                    .give-input {
+                        width: 100%;
+                        background: #f8f8f8;                        
+                        line-height: 1;
+                        padding: 25px 30px;
+                        border: 0px;
+                        
+                        @media (max-width: 585px) {
+                            padding: 15px;
+                            font-size: 13px;            
+                        }
+                    }
+                }
+            
+                label, .give-donation-total-label {
+                    color: #202426;
+                    font-weight: 700;
+                    font-size: 14px;
+                    margin-bottom: 10px;
+                    text-transform: capitalize;
+            
+                    span {
+                        color: #727475;
+                        margin-left: 5px;
+                    }
+                }
+            
+                .donate-total-amount {
+                    .give-final-total-amount {
+                        background: #f8f8f8;                        
+                        line-height: 1;
+                        padding: 25px 30px;
+                        border: 0px;
+                        display: inline-block;
+                        width: 300px;
+                        font-weight: 700;
+                        color: #202426;
+            
+                        @media (max-width: 585px) {                                
+                            font-size: 14px;
+                            padding: 20px;          
+                        }
+            
+                        @media (max-width: 550px) {
+                            width: 150px;
+                        }
+                        @media (max-width: 400px) {
+                            width: 100%;
+                            margin-bottom: 20px;
+                        }
+                    }
+                }
+            
+                input[type='submit'], .give-submit {
+                    background: $color1;
+                    color: #fff;
+                    font-weight: 700;
+                    line-height: 1;
+                    padding: 25px 40px;
+                    transition: all .3s ease-in-out;
+            
+                    @media (max-width: 585px) {                                
+                        font-size: 14px;
+                        padding: 20px 35px;          
+                    }
+            
+                    &.active, &:hover {
+                        background-color: $color4;                            
+                    }
+            
+                    i {
+                        margin-right: 8px;
+                    }
+            
+                    @media (max-width: 400px) {
+                        width: 100%;
+                    }
+                }
+            }
+        
+        }
+        
+    }
+
+}
+
+
+.give_forms {
+
+    .give-input, .give-select {
+        width: 100% !important;
+        background: #f8f8f8  !important;                        
+        line-height: 1 !important;
+        padding: 25px 30px !important;
+        border: 0px !important;
+        
+        @media (max-width: 585px) {
+            padding: 15px !important;
+            font-size: 13px !important;            
+        }
+    }
+
+    .give-label {
+        color: #202426 !important;
+        font-weight: 700 !important;
+        font-size: 14px !important;
+        margin-bottom: 10px !important;
+        text-transform: capitalize !important;
+    }
+
+    .give-payment-mode-label {
+        border: 0px;
+    }
+
+}
+#give-purchase-form-wrap {
+    padding-top: 40px;
+    border-top: 1px solid #e5e5e5;
+    margin-bottom: 50px;
+}
+
+.give-submit{
+    background: $color1;
+    color: #fff;
+    font-weight: 700;
+    line-height: 1;
+    padding: 25px 40px;
+    transition: all .3s ease-in-out;
+    border: 0px;
+
+    @media (max-width: 585px) {                                
+        font-size: 14px;
+        padding: 20px 35px;          
+    }
+
+    &.active, &:hover {
+        background-color: $color4;                            
+    }
+
+    i {
+        margin-right: 8px;
+    }
+
+    @media (max-width: 400px) {
+        width: 100%;
+    }
+}
+.give-final-total-amount {
+    color: #202426;
+    font-weight: 700;
+    font-size: 14px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+
+    span {
+        color: #727475;
+        margin-left: 5px;
+    }
+}
+
+form[id*=give-form] #give-final-total-wrap .give-donation-total-label, 
+form[id*=give-form] #give-final-total-wrap .give-final-total-amount {
+    background-color: #f8f8f8;
+    color: #333;
+    margin: 0;
+    padding: 25px 30px;
+    height: auto;
+    line-height: 1;
+    font-size: 18px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    float: left;
+    border: 0px;
+    font-weight: 700;
+}
+form[id*=give-form] #give-final-total-wrap .give-final-total-amount {
+    background-color: $color3;
+    color: #fff;
+}
+#give_offline_payment_info {
+    margin: 30px 0px;
+
+    ol {
+        list-style-type: disc;
+        padding-left: 15px;
+        margin: 10px 0px;
+        
+        li {
+            list-style: decimal;
+        }
+    }
+}
+#give_terms_agreement {
+    margin-bottom: 10px;
+}
+
+.give-form-title {
+    font-size: 34px;
+    margin-bottom: 30px;
+    line-height: 130%;
+}
+img.attachment-large.size-large.wp-post-image {
+    height: auto;
+}
+
+button.give-donation-level-btn.give-btn {
+    display: inline-block;
+    background: #f8f8f8;
+    padding: 19px 25px;
+    line-height: 1;
+    border-radius: 30px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-right: 5px;
+    -webkit-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    margin-top: 15px;
+    cursor: pointer;
+    border: 0px;
+
+    &:hover, &.give-default-level {
+        background: $color1;
+        color: #fff;
+    }
+}
+input{
+    &#give-anonymous-donation {
+        display: inline-block;
+        width: 25px !important;
+        margin-left: -5px;
+    }
+}
+
+.give-total-wrap {
+
+    #give-amount {
+        height: auto !important;
+        border: 0px !important;
+        padding: 15px 30px !important;
+        font-size: 18px !important;
+        font-weight: 700;
+        line-height: 1 !important;
+        display: inline-block;
+        width: auto;
+        background: $color1 !important;
+        color: #fff;
+    }
+
+    .give-currency-symbol {
+        &.give-currency-position-before {
+            height: auto !important;
+            border: 0px !important;
+            padding: 18px 25px !important;
+            font-size: 18px !important;
+            font-weight: 700 !important;
+            line-height: 1 !important;
+        }
+    }
+
+    .give-donation-amount {
+        &.form-row-wide {
+            display: inline-block;
+            overflow: hidden;
+            border-radius: 30px;
+        }
+    }
+}
+
+#give_purchase_form_wrap {
+    input {
+        &#give-purchase-button {
+            width: 100%;
+        }
+    }
+}
+
+.cause-details-wrapper {
+    .give-form-wrap {
+        &.give-display-onpage {
+            margin-top: 30px;
+        }
+    }
+
+}
+
+.give-progress-bar {
+    height: 6px;
+}
+
+.cause-contents-wrapper {
+    .cause-details-wrapper {
+        .give_forms {
+            margin-top: 0px !important;
+        }
+
+        .give-form-title {
+            margin-top: 30px;
+        }
+    }
+}
+
+
+.give-donate-form-wrap,
+.elementor-section {
+    .give-currency-symbol {
+        background: #ffcf20 !important;
+    }
+
+    .give_warning {
+        display: none;
+    }
+
+    .give-btn-modal {
+        @extend .theme-btn;
+    }
+
+    .give-goal-progress {
+        margin-top: 30px;
+        margin-bottom: 50px;
+    }
+}

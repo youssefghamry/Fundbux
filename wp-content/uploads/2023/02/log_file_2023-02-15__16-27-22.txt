@@ -1,0 +1,669 @@
+
+---Downloaded files---
+The import files for: Homepage 3 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress/Fundbux
+Data file = C:\xampp\htdocs\wordpress\Fundbux/wp-content/themes/fundbux/inc/demo/contents.xml
+Widget file = C:\xampp\htdocs\wordpress\Fundbux/wp-content/themes/fundbux/inc/demo/widgets.wie
+Customizer file = not defined!
+Redux files:
+fundbux_opt -> C:\xampp\htdocs\wordpress\Fundbux/wp-content/themes/fundbux/inc/demo/settings.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Background Type": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Left": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Right": Invalid post type acf-field
+[WARNING] Failed to import "Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Overlay Color": Invalid post type acf-field
+[WARNING] Failed to import "Event Details": Invalid post type acf-field
+[WARNING] Failed to import "Event Date": Invalid post type acf-field
+[WARNING] Failed to import "Location - Place": Invalid post type acf-field
+[WARNING] Failed to import "Event Start Time": Invalid post type acf-field
+[WARNING] Failed to import "Event End Time": Invalid post type acf-field
+[WARNING] Failed to import "E-mail Address": Invalid post type acf-field
+[WARNING] Failed to import "Mobile Number": Invalid post type acf-field
+[WARNING] Failed to import "Special Guest": Invalid post type acf-field
+[WARNING] Failed to import "Guest Members": Invalid post type acf-field
+[WARNING] Failed to import "Guest Image": Invalid post type acf-field
+[WARNING] Failed to import "Guest Name": Invalid post type acf-field
+[WARNING] Failed to import "Guest Profession": Invalid post type acf-field
+[WARNING] Failed to import "Google Map - Embed Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Google Map - Iframe Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Ticket": Invalid post type acf-field
+[WARNING] Failed to import "Seat Booking Link": Invalid post type acf-field
+[WARNING] Failed to import "Footer Visibility": Invalid post type acf-field
+[WARNING] Failed to import "Footer Select": Invalid post type acf-field
+[WARNING] Failed to import "Custom Footer Style?": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Title Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Banner Settings": Invalid post type acf-field
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Header Settings": Invalid post type acf-field
+[WARNING] Failed to import "Header": Invalid post type acf-field
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field
+[WARNING] Failed to import "Footer": Invalid post type acf-field
+[WARNING] Failed to import "Header Style": Invalid post type acf-field
+[WARNING] Failed to import "Do you want a custom Logo ?": Invalid post type acf-field
+[WARNING] Failed to import "Banner Setting": Invalid post type acf-field-group
+[WARNING] Failed to import "Events Management": Invalid post type acf-field-group
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field-group
+[WARNING] Failed to import "Fudbux Page Options": Invalid post type acf-field-group
+[WARNING] Failed to import "Header Style": Invalid post type acf-field-group
+[WARNING] Failed to import "Logo": Invalid post type acf-field-group
+[WARNING] Failed to import "Custom Logo": Invalid post type acf-field
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Background Type": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Left": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Right": Invalid post type acf-field
+[WARNING] Failed to import "Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Overlay Color": Invalid post type acf-field
+[WARNING] Failed to import "Event Details": Invalid post type acf-field
+[WARNING] Failed to import "Event Date": Invalid post type acf-field
+[WARNING] Failed to import "Location - Place": Invalid post type acf-field
+[WARNING] Failed to import "Event Start Time": Invalid post type acf-field
+[WARNING] Failed to import "Event End Time": Invalid post type acf-field
+[WARNING] Failed to import "E-mail Address": Invalid post type acf-field
+[WARNING] Failed to import "Mobile Number": Invalid post type acf-field
+[WARNING] Failed to import "Special Guest": Invalid post type acf-field
+[WARNING] Failed to import "Guest Members": Invalid post type acf-field
+[WARNING] Failed to import "Guest Image": Invalid post type acf-field
+[WARNING] Failed to import "Guest Name": Invalid post type acf-field
+[WARNING] Failed to import "Guest Profession": Invalid post type acf-field
+[WARNING] Failed to import "Google Map - Embed Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Google Map - Iframe Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Ticket": Invalid post type acf-field
+[WARNING] Failed to import "Seat Booking Link": Invalid post type acf-field
+[WARNING] Failed to import "Footer Visibility": Invalid post type acf-field
+[WARNING] Failed to import "Footer Select": Invalid post type acf-field
+[WARNING] Failed to import "Custom Footer Style?": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Title Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Banner Settings": Invalid post type acf-field
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Header Settings": Invalid post type acf-field
+[WARNING] Failed to import "Header": Invalid post type acf-field
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field
+[WARNING] Failed to import "Footer": Invalid post type acf-field
+[WARNING] Failed to import "Header Style": Invalid post type acf-field
+[WARNING] Failed to import "Do you want a custom Logo ?": Invalid post type acf-field
+[WARNING] Failed to import "Banner Setting": Invalid post type acf-field-group
+[WARNING] Failed to import "Events Management": Invalid post type acf-field-group
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field-group
+[WARNING] Failed to import "Fudbux Page Options": Invalid post type acf-field-group
+[WARNING] Failed to import "Header Style": Invalid post type acf-field-group
+[WARNING] Failed to import "Logo": Invalid post type acf-field-group
+[WARNING] Failed to import "Custom Logo": Invalid post type acf-field
+[WARNING] Failed to import "Video Link": Invalid post type acf-field-group
+[WARNING] Failed to import "Video URL": Invalid post type acf-field
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Background Type": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Left": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Right": Invalid post type acf-field
+[WARNING] Failed to import "Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Overlay Color": Invalid post type acf-field
+[WARNING] Failed to import "Event Details": Invalid post type acf-field
+[WARNING] Failed to import "Event Date": Invalid post type acf-field
+[WARNING] Failed to import "Location - Place": Invalid post type acf-field
+[WARNING] Failed to import "Event Start Time": Invalid post type acf-field
+[WARNING] Failed to import "Event End Time": Invalid post type acf-field
+[WARNING] Failed to import "E-mail Address": Invalid post type acf-field
+[WARNING] Failed to import "Mobile Number": Invalid post type acf-field
+[WARNING] Failed to import "Special Guest": Invalid post type acf-field
+[WARNING] Failed to import "Guest Members": Invalid post type acf-field
+[WARNING] Failed to import "Guest Image": Invalid post type acf-field
+[WARNING] Failed to import "Guest Name": Invalid post type acf-field
+[WARNING] Failed to import "Guest Profession": Invalid post type acf-field
+[WARNING] Failed to import "Google Map - Embed Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Google Map - Iframe Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Ticket": Invalid post type acf-field
+[WARNING] Failed to import "Seat Booking Link": Invalid post type acf-field
+[WARNING] Failed to import "Footer Visibility": Invalid post type acf-field
+[WARNING] Failed to import "Footer Select": Invalid post type acf-field
+[WARNING] Failed to import "Custom Footer Style?": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Title Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Banner Settings": Invalid post type acf-field
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Header Settings": Invalid post type acf-field
+[WARNING] Failed to import "Header": Invalid post type acf-field
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field
+[WARNING] Failed to import "Footer": Invalid post type acf-field
+[WARNING] Failed to import "Header Style": Invalid post type acf-field
+[WARNING] Failed to import "Do you want a custom Logo ?": Invalid post type acf-field
+[WARNING] Failed to import "Banner Setting": Invalid post type acf-field-group
+[WARNING] Failed to import "Events Management": Invalid post type acf-field-group
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field-group
+[WARNING] Failed to import "Fudbux Page Options": Invalid post type acf-field-group
+[WARNING] Failed to import "Header Style": Invalid post type acf-field-group
+[WARNING] Failed to import "Logo": Invalid post type acf-field-group
+[WARNING] Failed to import "Custom Logo": Invalid post type acf-field
+[WARNING] Failed to import "Video Link": Invalid post type acf-field-group
+[WARNING] Failed to import "Video URL": Invalid post type acf-field
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Background Type": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Left": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Right": Invalid post type acf-field
+[WARNING] Failed to import "Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Overlay Color": Invalid post type acf-field
+[WARNING] Failed to import "Event Details": Invalid post type acf-field
+[WARNING] Failed to import "Event Date": Invalid post type acf-field
+[WARNING] Failed to import "Location - Place": Invalid post type acf-field
+[WARNING] Failed to import "Event Start Time": Invalid post type acf-field
+[WARNING] Failed to import "Event End Time": Invalid post type acf-field
+[WARNING] Failed to import "E-mail Address": Invalid post type acf-field
+[WARNING] Failed to import "Mobile Number": Invalid post type acf-field
+[WARNING] Failed to import "Special Guest": Invalid post type acf-field
+[WARNING] Failed to import "Guest Members": Invalid post type acf-field
+[WARNING] Failed to import "Guest Image": Invalid post type acf-field
+[WARNING] Failed to import "Guest Name": Invalid post type acf-field
+[WARNING] Failed to import "Guest Profession": Invalid post type acf-field
+[WARNING] Failed to import "Google Map - Embed Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Google Map - Iframe Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Ticket": Invalid post type acf-field
+[WARNING] Failed to import "Seat Booking Link": Invalid post type acf-field
+[WARNING] Failed to import "Footer Visibility": Invalid post type acf-field
+[WARNING] Failed to import "Footer Select": Invalid post type acf-field
+[WARNING] Failed to import "Custom Footer Style?": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Title Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Banner Settings": Invalid post type acf-field
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Header Settings": Invalid post type acf-field
+[WARNING] Failed to import "Header": Invalid post type acf-field
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field
+[WARNING] Failed to import "Footer": Invalid post type acf-field
+[WARNING] Failed to import "Header Style": Invalid post type acf-field
+[WARNING] Failed to import "Do you want a custom Logo ?": Invalid post type acf-field
+[WARNING] Failed to import "Banner Setting": Invalid post type acf-field-group
+[WARNING] Failed to import "Events Management": Invalid post type acf-field-group
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field-group
+[WARNING] Failed to import "Fudbux Page Options": Invalid post type acf-field-group
+[WARNING] Failed to import "Header Style": Invalid post type acf-field-group
+[WARNING] Failed to import "Logo": Invalid post type acf-field-group
+[WARNING] Failed to import "Custom Logo": Invalid post type acf-field
+[WARNING] Failed to import "Video Link": Invalid post type acf-field-group
+[WARNING] Failed to import "Video URL": Invalid post type acf-field
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Background Type": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Left": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Right": Invalid post type acf-field
+[WARNING] Failed to import "Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Overlay Color": Invalid post type acf-field
+[WARNING] Failed to import "Event Details": Invalid post type acf-field
+[WARNING] Failed to import "Event Date": Invalid post type acf-field
+[WARNING] Failed to import "Location - Place": Invalid post type acf-field
+[WARNING] Failed to import "Event Start Time": Invalid post type acf-field
+[WARNING] Failed to import "Event End Time": Invalid post type acf-field
+[WARNING] Failed to import "E-mail Address": Invalid post type acf-field
+[WARNING] Failed to import "Mobile Number": Invalid post type acf-field
+[WARNING] Failed to import "Special Guest": Invalid post type acf-field
+[WARNING] Failed to import "Guest Members": Invalid post type acf-field
+[WARNING] Failed to import "Guest Image": Invalid post type acf-field
+[WARNING] Failed to import "Guest Name": Invalid post type acf-field
+[WARNING] Failed to import "Guest Profession": Invalid post type acf-field
+[WARNING] Failed to import "Google Map - Embed Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Google Map - Iframe Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Ticket": Invalid post type acf-field
+[WARNING] Failed to import "Seat Booking Link": Invalid post type acf-field
+[WARNING] Failed to import "Footer Visibility": Invalid post type acf-field
+[WARNING] Failed to import "Footer Select": Invalid post type acf-field
+[WARNING] Failed to import "Custom Footer Style?": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Title Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Banner Settings": Invalid post type acf-field
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Header Settings": Invalid post type acf-field
+[WARNING] Failed to import "Header": Invalid post type acf-field
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field
+[WARNING] Failed to import "Footer": Invalid post type acf-field
+[WARNING] Failed to import "Header Style": Invalid post type acf-field
+[WARNING] Failed to import "Do you want a custom Logo ?": Invalid post type acf-field
+[WARNING] Failed to import "Banner Setting": Invalid post type acf-field-group
+[WARNING] Failed to import "Events Management": Invalid post type acf-field-group
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field-group
+[WARNING] Failed to import "Fudbux Page Options": Invalid post type acf-field-group
+[WARNING] Failed to import "Header Style": Invalid post type acf-field-group
+[WARNING] Failed to import "Logo": Invalid post type acf-field-group
+[WARNING] Failed to import "Custom Logo": Invalid post type acf-field
+[WARNING] Failed to import "Video Link": Invalid post type acf-field-group
+[WARNING] Failed to import "Video URL": Invalid post type acf-field
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Background Type": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Left": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Right": Invalid post type acf-field
+[WARNING] Failed to import "Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Overlay Color": Invalid post type acf-field
+[WARNING] Failed to import "Event Details": Invalid post type acf-field
+[WARNING] Failed to import "Event Date": Invalid post type acf-field
+[WARNING] Failed to import "Location - Place": Invalid post type acf-field
+[WARNING] Failed to import "Event Start Time": Invalid post type acf-field
+[WARNING] Failed to import "Event End Time": Invalid post type acf-field
+[WARNING] Failed to import "E-mail Address": Invalid post type acf-field
+[WARNING] Failed to import "Mobile Number": Invalid post type acf-field
+[WARNING] Failed to import "Special Guest": Invalid post type acf-field
+[WARNING] Failed to import "Guest Members": Invalid post type acf-field
+[WARNING] Failed to import "Guest Image": Invalid post type acf-field
+[WARNING] Failed to import "Guest Name": Invalid post type acf-field
+[WARNING] Failed to import "Guest Profession": Invalid post type acf-field
+[WARNING] Failed to import "Google Map - Embed Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Google Map - Iframe Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Ticket": Invalid post type acf-field
+[WARNING] Failed to import "Seat Booking Link": Invalid post type acf-field
+[WARNING] Failed to import "Footer Visibility": Invalid post type acf-field
+[WARNING] Failed to import "Footer Select": Invalid post type acf-field
+[WARNING] Failed to import "Custom Footer Style?": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Title Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Banner Settings": Invalid post type acf-field
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Header Settings": Invalid post type acf-field
+[WARNING] Failed to import "Header": Invalid post type acf-field
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field
+[WARNING] Failed to import "Footer": Invalid post type acf-field
+[WARNING] Failed to import "Header Style": Invalid post type acf-field
+[WARNING] Failed to import "Do you want a custom Logo ?": Invalid post type acf-field
+[WARNING] Failed to import "Banner Setting": Invalid post type acf-field-group
+[WARNING] Failed to import "Events Management": Invalid post type acf-field-group
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field-group
+[WARNING] Failed to import "Fudbux Page Options": Invalid post type acf-field-group
+[WARNING] Failed to import "Header Style": Invalid post type acf-field-group
+[WARNING] Failed to import "Logo": Invalid post type acf-field-group
+[WARNING] Failed to import "Custom Logo": Invalid post type acf-field
+[WARNING] Failed to import "Video Link": Invalid post type acf-field-group
+[WARNING] Failed to import "Video URL": Invalid post type acf-field
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Background Type": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Left": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Right": Invalid post type acf-field
+[WARNING] Failed to import "Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Overlay Color": Invalid post type acf-field
+[WARNING] Failed to import "Event Details": Invalid post type acf-field
+[WARNING] Failed to import "Event Date": Invalid post type acf-field
+[WARNING] Failed to import "Location - Place": Invalid post type acf-field
+[WARNING] Failed to import "Event Start Time": Invalid post type acf-field
+[WARNING] Failed to import "Event End Time": Invalid post type acf-field
+[WARNING] Failed to import "E-mail Address": Invalid post type acf-field
+[WARNING] Failed to import "Mobile Number": Invalid post type acf-field
+[WARNING] Failed to import "Special Guest": Invalid post type acf-field
+[WARNING] Failed to import "Guest Members": Invalid post type acf-field
+[WARNING] Failed to import "Guest Image": Invalid post type acf-field
+[WARNING] Failed to import "Guest Name": Invalid post type acf-field
+[WARNING] Failed to import "Guest Profession": Invalid post type acf-field
+[WARNING] Failed to import "Google Map - Embed Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Google Map - Iframe Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Ticket": Invalid post type acf-field
+[WARNING] Failed to import "Seat Booking Link": Invalid post type acf-field
+[WARNING] Failed to import "Footer Visibility": Invalid post type acf-field
+[WARNING] Failed to import "Footer Select": Invalid post type acf-field
+[WARNING] Failed to import "Custom Footer Style?": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Title Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Banner Settings": Invalid post type acf-field
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Header Settings": Invalid post type acf-field
+[WARNING] Failed to import "Header": Invalid post type acf-field
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field
+[WARNING] Failed to import "Footer": Invalid post type acf-field
+[WARNING] Failed to import "Header Style": Invalid post type acf-field
+[WARNING] Failed to import "Do you want a custom Logo ?": Invalid post type acf-field
+[WARNING] Failed to import "Banner Setting": Invalid post type acf-field-group
+[WARNING] Failed to import "Events Management": Invalid post type acf-field-group
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field-group
+[WARNING] Failed to import "Fudbux Page Options": Invalid post type acf-field-group
+[WARNING] Failed to import "Header Style": Invalid post type acf-field-group
+[WARNING] Failed to import "Logo": Invalid post type acf-field-group
+[WARNING] Failed to import "Custom Logo": Invalid post type acf-field
+[WARNING] Failed to import "Video Link": Invalid post type acf-field-group
+[WARNING] Failed to import "Video URL": Invalid post type acf-field
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Background Type": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Left": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Right": Invalid post type acf-field
+[WARNING] Failed to import "Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Overlay Color": Invalid post type acf-field
+[WARNING] Failed to import "Event Details": Invalid post type acf-field
+[WARNING] Failed to import "Event Date": Invalid post type acf-field
+[WARNING] Failed to import "Location - Place": Invalid post type acf-field
+[WARNING] Failed to import "Event Start Time": Invalid post type acf-field
+[WARNING] Failed to import "Event End Time": Invalid post type acf-field
+[WARNING] Failed to import "E-mail Address": Invalid post type acf-field
+[WARNING] Failed to import "Mobile Number": Invalid post type acf-field
+[WARNING] Failed to import "Special Guest": Invalid post type acf-field
+[WARNING] Failed to import "Guest Members": Invalid post type acf-field
+[WARNING] Failed to import "Guest Image": Invalid post type acf-field
+[WARNING] Failed to import "Guest Name": Invalid post type acf-field
+[WARNING] Failed to import "Guest Profession": Invalid post type acf-field
+[WARNING] Failed to import "Google Map - Embed Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Google Map - Iframe Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Ticket": Invalid post type acf-field
+[WARNING] Failed to import "Seat Booking Link": Invalid post type acf-field
+[WARNING] Failed to import "Footer Visibility": Invalid post type acf-field
+[WARNING] Failed to import "Footer Select": Invalid post type acf-field
+[WARNING] Failed to import "Custom Footer Style?": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Title Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Banner Settings": Invalid post type acf-field
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Header Settings": Invalid post type acf-field
+[WARNING] Failed to import "Header": Invalid post type acf-field
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field
+[WARNING] Failed to import "Footer": Invalid post type acf-field
+[WARNING] Failed to import "Header Style": Invalid post type acf-field
+[WARNING] Failed to import "Do you want a custom Logo ?": Invalid post type acf-field
+[WARNING] Failed to import "Banner Setting": Invalid post type acf-field-group
+[WARNING] Failed to import "Events Management": Invalid post type acf-field-group
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field-group
+[WARNING] Failed to import "Fudbux Page Options": Invalid post type acf-field-group
+[WARNING] Failed to import "Header Style": Invalid post type acf-field-group
+[WARNING] Failed to import "Logo": Invalid post type acf-field-group
+[WARNING] Failed to import "Custom Logo": Invalid post type acf-field
+[WARNING] Failed to import "Video Link": Invalid post type acf-field-group
+[WARNING] Failed to import "Video URL": Invalid post type acf-field
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Background Type": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Left": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Right": Invalid post type acf-field
+[WARNING] Failed to import "Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Overlay Color": Invalid post type acf-field
+[WARNING] Failed to import "Event Details": Invalid post type acf-field
+[WARNING] Failed to import "Event Date": Invalid post type acf-field
+[WARNING] Failed to import "Location - Place": Invalid post type acf-field
+[WARNING] Failed to import "Event Start Time": Invalid post type acf-field
+[WARNING] Failed to import "Event End Time": Invalid post type acf-field
+[WARNING] Failed to import "E-mail Address": Invalid post type acf-field
+[WARNING] Failed to import "Mobile Number": Invalid post type acf-field
+[WARNING] Failed to import "Special Guest": Invalid post type acf-field
+[WARNING] Failed to import "Guest Members": Invalid post type acf-field
+[WARNING] Failed to import "Guest Image": Invalid post type acf-field
+[WARNING] Failed to import "Guest Name": Invalid post type acf-field
+[WARNING] Failed to import "Guest Profession": Invalid post type acf-field
+[WARNING] Failed to import "Google Map - Embed Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Google Map - Iframe Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Ticket": Invalid post type acf-field
+[WARNING] Failed to import "Seat Booking Link": Invalid post type acf-field
+[WARNING] Failed to import "Footer Visibility": Invalid post type acf-field
+[WARNING] Failed to import "Footer Select": Invalid post type acf-field
+[WARNING] Failed to import "Custom Footer Style?": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Title Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Banner Settings": Invalid post type acf-field
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Header Settings": Invalid post type acf-field
+[WARNING] Failed to import "Header": Invalid post type acf-field
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field
+[WARNING] Failed to import "Footer": Invalid post type acf-field
+[WARNING] Failed to import "Header Style": Invalid post type acf-field
+[WARNING] Failed to import "Do you want a custom Logo ?": Invalid post type acf-field
+[WARNING] Failed to import "Banner Setting": Invalid post type acf-field-group
+[WARNING] Failed to import "Events Management": Invalid post type acf-field-group
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field-group
+[WARNING] Failed to import "Fudbux Page Options": Invalid post type acf-field-group
+[WARNING] Failed to import "Header Style": Invalid post type acf-field-group
+[WARNING] Failed to import "Logo": Invalid post type acf-field-group
+[WARNING] Failed to import "Custom Logo": Invalid post type acf-field
+[WARNING] Failed to import "Video Link": Invalid post type acf-field-group
+[WARNING] Failed to import "Video URL": Invalid post type acf-field
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Background Type": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Left": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Right": Invalid post type acf-field
+[WARNING] Failed to import "Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Overlay Color": Invalid post type acf-field
+[WARNING] Failed to import "Event Details": Invalid post type acf-field
+[WARNING] Failed to import "Event Date": Invalid post type acf-field
+[WARNING] Failed to import "Location - Place": Invalid post type acf-field
+[WARNING] Failed to import "Event Start Time": Invalid post type acf-field
+[WARNING] Failed to import "Event End Time": Invalid post type acf-field
+[WARNING] Failed to import "E-mail Address": Invalid post type acf-field
+[WARNING] Failed to import "Mobile Number": Invalid post type acf-field
+[WARNING] Failed to import "Special Guest": Invalid post type acf-field
+[WARNING] Failed to import "Guest Members": Invalid post type acf-field
+[WARNING] Failed to import "Guest Image": Invalid post type acf-field
+[WARNING] Failed to import "Guest Name": Invalid post type acf-field
+[WARNING] Failed to import "Guest Profession": Invalid post type acf-field
+[WARNING] Failed to import "Google Map - Embed Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Google Map - Iframe Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Ticket": Invalid post type acf-field
+[WARNING] Failed to import "Seat Booking Link": Invalid post type acf-field
+[WARNING] Failed to import "Footer Visibility": Invalid post type acf-field
+[WARNING] Failed to import "Footer Select": Invalid post type acf-field
+[WARNING] Failed to import "Custom Footer Style?": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Title Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Banner Settings": Invalid post type acf-field
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Header Settings": Invalid post type acf-field
+[WARNING] Failed to import "Header": Invalid post type acf-field
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field
+[WARNING] Failed to import "Footer": Invalid post type acf-field
+[WARNING] Failed to import "Header Style": Invalid post type acf-field
+[WARNING] Failed to import "Do you want a custom Logo ?": Invalid post type acf-field
+[WARNING] Failed to import "Banner Setting": Invalid post type acf-field-group
+[WARNING] Failed to import "Events Management": Invalid post type acf-field-group
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field-group
+[WARNING] Failed to import "Fudbux Page Options": Invalid post type acf-field-group
+[WARNING] Failed to import "Header Style": Invalid post type acf-field-group
+[WARNING] Failed to import "Logo": Invalid post type acf-field-group
+[WARNING] Failed to import "Custom Logo": Invalid post type acf-field
+[WARNING] Failed to import "Video Link": Invalid post type acf-field-group
+[WARNING] Failed to import "Video URL": Invalid post type acf-field
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Background Type": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Left": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Right": Invalid post type acf-field
+[WARNING] Failed to import "Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Overlay Color": Invalid post type acf-field
+[WARNING] Failed to import "Event Details": Invalid post type acf-field
+[WARNING] Failed to import "Event Date": Invalid post type acf-field
+[WARNING] Failed to import "Location - Place": Invalid post type acf-field
+[WARNING] Failed to import "Event Start Time": Invalid post type acf-field
+[WARNING] Failed to import "Event End Time": Invalid post type acf-field
+[WARNING] Failed to import "E-mail Address": Invalid post type acf-field
+[WARNING] Failed to import "Mobile Number": Invalid post type acf-field
+[WARNING] Failed to import "Special Guest": Invalid post type acf-field
+[WARNING] Failed to import "Guest Members": Invalid post type acf-field
+[WARNING] Failed to import "Guest Image": Invalid post type acf-field
+[WARNING] Failed to import "Guest Name": Invalid post type acf-field
+[WARNING] Failed to import "Guest Profession": Invalid post type acf-field
+[WARNING] Failed to import "Google Map - Embed Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Google Map - Iframe Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Ticket": Invalid post type acf-field
+[WARNING] Failed to import "Seat Booking Link": Invalid post type acf-field
+[WARNING] Failed to import "Footer Visibility": Invalid post type acf-field
+[WARNING] Failed to import "Footer Select": Invalid post type acf-field
+[WARNING] Failed to import "Custom Footer Style?": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Title Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Banner Settings": Invalid post type acf-field
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Header Settings": Invalid post type acf-field
+[WARNING] Failed to import "Header": Invalid post type acf-field
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field
+[WARNING] Failed to import "Footer": Invalid post type acf-field
+[WARNING] Failed to import "Header Style": Invalid post type acf-field
+[WARNING] Failed to import "Do you want a custom Logo ?": Invalid post type acf-field
+[WARNING] Failed to import "Banner Setting": Invalid post type acf-field-group
+[WARNING] Failed to import "Events Management": Invalid post type acf-field-group
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field-group
+[WARNING] Failed to import "Fudbux Page Options": Invalid post type acf-field-group
+[WARNING] Failed to import "Header Style": Invalid post type acf-field-group
+[WARNING] Failed to import "Logo": Invalid post type acf-field-group
+[WARNING] Failed to import "Custom Logo": Invalid post type acf-field
+[WARNING] Failed to import "Video Link": Invalid post type acf-field-group
+[WARNING] Failed to import "Video URL": Invalid post type acf-field
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Background Type": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Left": Invalid post type acf-field
+[WARNING] Failed to import "Background Color Right": Invalid post type acf-field
+[WARNING] Failed to import "Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Overlay Color": Invalid post type acf-field
+[WARNING] Failed to import "Event Details": Invalid post type acf-field
+[WARNING] Failed to import "Event Date": Invalid post type acf-field
+[WARNING] Failed to import "Location - Place": Invalid post type acf-field
+[WARNING] Failed to import "Event Start Time": Invalid post type acf-field
+[WARNING] Failed to import "Event End Time": Invalid post type acf-field
+[WARNING] Failed to import "E-mail Address": Invalid post type acf-field
+[WARNING] Failed to import "Mobile Number": Invalid post type acf-field
+[WARNING] Failed to import "Special Guest": Invalid post type acf-field
+[WARNING] Failed to import "Guest Members": Invalid post type acf-field
+[WARNING] Failed to import "Guest Image": Invalid post type acf-field
+[WARNING] Failed to import "Guest Name": Invalid post type acf-field
+[WARNING] Failed to import "Guest Profession": Invalid post type acf-field
+[WARNING] Failed to import "Google Map - Embed Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Google Map - Iframe Code": Invalid post type acf-field
+[WARNING] Failed to import "Event Ticket": Invalid post type acf-field
+[WARNING] Failed to import "Seat Booking Link": Invalid post type acf-field
+[WARNING] Failed to import "Footer Visibility": Invalid post type acf-field
+[WARNING] Failed to import "Footer Select": Invalid post type acf-field
+[WARNING] Failed to import "Custom Footer Style?": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Background Image": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Title Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Widget Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Footer Bottom Bar Text Color": Invalid post type acf-field
+[WARNING] Failed to import "Banner Settings": Invalid post type acf-field
+[WARNING] Failed to import "Banner": Invalid post type acf-field
+[WARNING] Failed to import "Header Settings": Invalid post type acf-field
+[WARNING] Failed to import "Header": Invalid post type acf-field
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field
+[WARNING] Failed to import "Footer": Invalid post type acf-field
+[WARNING] Failed to import "Header Style": Invalid post type acf-field
+[WARNING] Failed to import "Do you want a custom Logo ?": Invalid post type acf-field
+[WARNING] Failed to import "Banner Setting": Invalid post type acf-field-group
+[WARNING] Failed to import "Events Management": Invalid post type acf-field-group
+[WARNING] Failed to import "Footer Settings": Invalid post type acf-field-group
+[WARNING] Failed to import "Fudbux Page Options": Invalid post type acf-field-group
+[WARNING] Failed to import "Header Style": Invalid post type acf-field-group
+[WARNING] Failed to import "Logo": Invalid post type acf-field-group
+[WARNING] Failed to import "Custom Logo": Invalid post type acf-field
+[WARNING] Failed to import "Video Link": Invalid post type acf-field-group
+[WARNING] Failed to import "Video URL": Invalid post type acf-field
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+(FundBux) Popular Feeds - Most Viewed News - Imported
+Categories - No Title - Imported
+Tag Cloud - No Title - Imported
+(FundBux) Social Icons Link - No Title - Imported
+
+Footer Widgets : 
+
+(FundBux) Get In Touch - No Title - Imported
+Navigation Menu - Useful Links - Imported
+(FundBux) Recent Posts - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: fundbux_opt finished successfully!
+
+---ocdi/after_import---
+

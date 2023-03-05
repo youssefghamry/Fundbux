@@ -1,0 +1,92 @@
+/*
+Template: Fundbux - Charity & Foundries
+Author: Modina Theme
+Author URI: https://themeforest.net/user/modinatheme
+Description: Charity & Foundries WP Theme
+Version: 1.3.1
+*/
+
+// BASIC
+@import 'basic';
+// MIXIN
+@import 'variables';
+// TYPOGRAPHY
+@import 'typography';
+// MIX
+@import 'mix';
+// HELPER
+@import 'helper';
+// ANIMATION
+@import 'animation';
+// Button 
+@import 'btn';
+
+// WordPress Default Style 
+@import 'wp';
+
+// Preloader 
+@import 'preloader';
+
+/* ----------------------------------
+    Template Section Styles
+ ------------------------------------*/
+
+// Menu - Header Section 
+@import 'header';
+
+// Hero Slide - Section 
+@import 'hero';
+
+// Section Title - Heading 
+@import 'section';
+
+// About - Section 
+@import 'about';
+
+// Features - Section 
+@import 'features';
+
+// Services - Section 
+@import 'services';
+
+// Testimonial - Section 
+@import 'testimonial';
+
+// Donation / Causes - Section 
+@import 'cause';
+
+// Pricing - Section 
+@import 'price';
+
+// Call To Action - Section 
+@import 'cta';
+
+// Content Block - Section 
+@import 'contentblock';
+
+// Event - Section 
+@import 'event';
+
+// team - Section 
+@import 'team';
+
+// Fun fact - Section 
+@import 'funfact';
+
+// Carousel - Section 
+@import 'carousel';
+
+// FAQ - Section 
+@import 'faq';
+
+// Blog - Section 
+@import 'blog';
+
+// GiveWP - Section 
+@import 'givewp';
+
+// Contact Us - Section 
+@import 'contact';
+
+// footer - Section 
+@import 'footer';

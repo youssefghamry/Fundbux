@@ -1,0 +1,990 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Modina Core\n"
+"POT-Creation-Date: 2021-10-21 04:33+0600\n"
+"PO-Revision-Date: 2021-10-21 04:34+0600\n"
+"Last-Translator: \n"
+"Language-Team: ModinaTheme\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;_n;_x;esc_html__;esc_html_x;esc_html_e;esc_attr__;"
+"esc_attr_x;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: inc/extra.php:42
+msgid "All"
+msgstr ""
+
+#: modina-core.php:113 modina-core.php:129
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: modina-core.php:261
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: modina-core.php:262 modina-core.php:282 modina-core.php:302
+msgid "Modnia Core"
+msgstr ""
+
+#: modina-core.php:263 modina-core.php:283
+msgid "Elementor"
+msgstr ""
+
+#: modina-core.php:281 modina-core.php:301
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: modina-core.php:303
+msgid "PHP"
+msgstr ""
+
+#: post-type/event.pt.php:80
+msgid " Categories"
+msgstr ""
+
+#: widgets/Modina_about_us.php:22
+msgid "About Us"
+msgstr ""
+
+#: widgets/Modina_about_us.php:43
+msgid "About Images"
+msgstr ""
+
+#: widgets/Modina_about_us.php:49
+msgid "Big Image"
+msgstr ""
+
+#: widgets/Modina_about_us.php:60
+msgid "Small Image"
+msgstr ""
+
+#: widgets/Modina_about_us.php:76 widgets/Modina_about_us.php:364
+#: widgets/Modina_grid_gallery.php:82
+msgid "Years Of Experience"
+msgstr ""
+
+#: widgets/Modina_about_us.php:83 widgets/Modina_grid_gallery.php:89
+msgid "Enter Your Years"
+msgstr ""
+
+#: widgets/Modina_about_us.php:99 widgets/Modina_causes_carousel.php:43
+#: widgets/Modina_news_feeds.php:74 widgets/Modina_section_title.php:43
+#: widgets/Modina_video.php:71
+msgid "Section Heading"
+msgstr ""
+
+#: widgets/Modina_about_us.php:106 widgets/Modina_causes_carousel.php:50
+#: widgets/Modina_hero.php:84 widgets/Modina_news_feeds.php:81
+#: widgets/Modina_section_title.php:50 widgets/Modina_video.php:78
+msgid "Heading Text"
+msgstr ""
+
+#: widgets/Modina_about_us.php:115 widgets/Modina_causes_carousel.php:59
+#: widgets/Modina_hero.php:212 widgets/Modina_news_feeds.php:90
+#: widgets/Modina_section_title.php:59 widgets/Modina_video.php:87
+msgid "Heading Color"
+msgstr ""
+
+#: widgets/Modina_about_us.php:125 widgets/Modina_causes_carousel.php:69
+#: widgets/Modina_news_feeds.php:100 widgets/Modina_section_title.php:69
+#: widgets/Modina_video.php:97
+msgid "Heading Span Color"
+msgstr ""
+
+#: widgets/Modina_about_us.php:145 widgets/Modina_causes_carousel.php:90
+#: widgets/Modina_news_feeds.php:120 widgets/Modina_section_title.php:90
+#: widgets/Modina_video.php:117
+msgid "Section Sub Heading"
+msgstr ""
+
+#: widgets/Modina_about_us.php:152 widgets/Modina_causes_carousel.php:108
+#: widgets/Modina_news_feeds.php:127 widgets/Modina_promo_box.php:74
+#: widgets/Modina_section_title.php:109 widgets/Modina_video.php:124
+msgid "Sub Heading"
+msgstr ""
+
+#: widgets/Modina_about_us.php:161 widgets/Modina_causes_carousel.php:117
+#: widgets/Modina_hero.php:229 widgets/Modina_news_feeds.php:136
+#: widgets/Modina_section_title.php:118 widgets/Modina_video.php:133
+msgid "Sub Heading Color"
+msgstr ""
+
+#: widgets/Modina_about_us.php:175
+msgid "Text Content"
+msgstr ""
+
+#: widgets/Modina_about_us.php:182 widgets/Modina_box_card.php:72
+#: widgets/Modina_icon_box.php:84 widgets/Modina_section_title.php:139
+msgid "Text"
+msgstr ""
+
+#: widgets/Modina_about_us.php:231 widgets/Modina_content_features.php:65
+msgid "Our Features List"
+msgstr ""
+
+#: widgets/Modina_about_us.php:240 widgets/Modina_content_features.php:85
+msgid "Features Title"
+msgstr ""
+
+#: widgets/Modina_about_us.php:250 widgets/Modina_content_features.php:105
+msgid "All Features"
+msgstr ""
+
+#: widgets/Modina_about_us.php:277 widgets/Modina_content_features.php:132
+msgid "Button"
+msgstr ""
+
+#: widgets/Modina_about_us.php:284 widgets/Modina_content_features.php:139
+#: widgets/Modina_promo_box.php:95
+msgid "Button Title"
+msgstr ""
+
+#: widgets/Modina_about_us.php:294 widgets/Modina_box_card.php:82
+#: widgets/Modina_content_features.php:149 widgets/Modina_hero.php:114
+#: widgets/Modina_hero.php:137 widgets/Modina_join_us_cta.php:117
+#: widgets/Modina_join_us_cta.php:140 widgets/Modina_promo_box.php:105
+#: widgets/Modina_services.php:92 widgets/Modina_team.php:219
+msgid "Button Link"
+msgstr ""
+
+#: widgets/Modina_about_us.php:311 widgets/Modina_box_card.php:173
+#: widgets/Modina_causes_carousel.php:183 widgets/Modina_contact_form.php:131
+#: widgets/Modina_content_features.php:166 widgets/Modina_funfact.php:172
+#: widgets/Modina_join_us_cta.php:207 widgets/Modina_news_feeds.php:285
+#: widgets/Modina_promo_box.php:153 widgets/Modina_services.php:178
+#: widgets/Modina_site_cta.php:148 widgets/Modina_timeline.php:188
+#: widgets/Modina_video.php:207
+msgid "Section Style"
+msgstr ""
+
+#: widgets/Modina_about_us.php:318 widgets/Modina_causes_carousel.php:190
+#: widgets/Modina_content_features.php:173 widgets/Modina_funfact.php:179
+#: widgets/Modina_promo_box.php:160
+msgid "Section Background Color"
+msgstr ""
+
+#: widgets/Modina_about_us.php:329 widgets/Modina_box_card.php:180
+#: widgets/Modina_cause_cat_list.php:159 widgets/Modina_causes_carousel.php:201
+#: widgets/Modina_contact_form.php:167 widgets/Modina_content_features.php:194
+#: widgets/Modina_funfact.php:189 widgets/Modina_news_feeds.php:304
+#: widgets/Modina_promo_box.php:171 widgets/Modina_services.php:185
+#: widgets/Modina_site_cta.php:166 widgets/Modina_timeline.php:207
+#: widgets/Modina_video.php:226
+msgid "Section Padding"
+msgstr ""
+
+#: widgets/Modina_box_card.php:21
+msgid "Box Card & Link"
+msgstr ""
+
+#: widgets/Modina_box_card.php:42
+msgid "Box Card - Link"
+msgstr ""
+
+#: widgets/Modina_box_card.php:51 widgets/Modina_funfact.php:51
+#: widgets/Modina_services.php:51
+msgid "Icon"
+msgstr ""
+
+#: widgets/Modina_box_card.php:62 widgets/Modina_funfact.php:62
+#: widgets/Modina_icon_box.php:74
+msgid "Title"
+msgstr ""
+
+#: widgets/Modina_box_card.php:95
+msgid "Background Image"
+msgstr ""
+
+#: widgets/Modina_box_card.php:106
+msgid "All Box Card"
+msgstr ""
+
+#: widgets/Modina_box_card.php:146
+msgid "Card Style"
+msgstr ""
+
+#: widgets/Modina_box_card.php:153 widgets/Modina_cause_cat_list.php:140
+#: widgets/Modina_funfact.php:142 widgets/Modina_news_feeds.php:214
+msgid "Title Color"
+msgstr ""
+
+#: widgets/Modina_box_card.php:195
+msgid "Section BG Color"
+msgstr ""
+
+#: widgets/Modina_cause_cat_list.php:21
+msgid "Causes Category - Promo"
+msgstr ""
+
+#: widgets/Modina_cause_cat_list.php:41
+msgid "Top Causes Category"
+msgstr ""
+
+#: widgets/Modina_cause_cat_list.php:50
+msgid "Category Name"
+msgstr ""
+
+#: widgets/Modina_cause_cat_list.php:60
+msgid "Category Icon"
+msgstr ""
+
+#: widgets/Modina_cause_cat_list.php:72
+msgid "Client Link"
+msgstr ""
+
+#: widgets/Modina_cause_cat_list.php:82
+msgid "Causes Category List"
+msgstr ""
+
+#: widgets/Modina_cause_cat_list.php:133
+msgid "Category Item Style"
+msgstr ""
+
+#: widgets/Modina_cause_cat_list.php:166 widgets/Modina_hero.php:317
+#: widgets/Modina_join_us_cta.php:226
+msgid "Padding"
+msgstr ""
+
+#: widgets/Modina_causes_carousel.php:21
+msgid "Causes Carousel - Donations"
+msgstr ""
+
+#: widgets/Modina_causes_carousel.php:303 widgets/cause/style-one.php:66
+#: widgets/cause/style-three.php:64 widgets/cause/style-two.php:65
+msgid "Raised"
+msgstr ""
+
+#: widgets/Modina_causes_carousel.php:304 widgets/cause/style-one.php:70
+#: widgets/cause/style-three.php:67 widgets/cause/style-two.php:66
+msgid "Goal"
+msgstr ""
+
+#: widgets/Modina_causes_carousel.php:309 widgets/cause/style-two.php:71
+msgid "Donate Now"
+msgstr ""
+
+#: widgets/Modina_contact_card.php:21 widgets/Modina_contact_card.php:43
+msgid "Contact Info Card"
+msgstr ""
+
+#: widgets/Modina_contact_card.php:65
+msgid "Contact Heading"
+msgstr ""
+
+#: widgets/Modina_contact_card.php:75
+msgid "Contact Sub Title"
+msgstr ""
+
+#: widgets/Modina_contact_card.php:85 widgets/Modina_site_cta.php:60
+msgid "Contact Info"
+msgstr ""
+
+#: widgets/Modina_contact_card.php:95
+msgid "Contct Card Items"
+msgstr ""
+
+#: widgets/Modina_contact_card.php:135
+msgid "Card Item Style"
+msgstr ""
+
+#: widgets/Modina_contact_card.php:142
+msgid "Card Title Color"
+msgstr ""
+
+#: widgets/Modina_contact_card.php:159
+msgid "Card Text Color"
+msgstr ""
+
+#: widgets/Modina_contact_card.php:170
+msgid "Card Icon Color"
+msgstr ""
+
+#: widgets/Modina_contact_card.php:181
+msgid "Card Icon Circle Background"
+msgstr ""
+
+#: widgets/Modina_contact_card.php:192
+msgid "Card Background Color"
+msgstr ""
+
+#: widgets/Modina_contact_form.php:24
+msgid "Contact Form"
+msgstr ""
+
+#: widgets/Modina_contact_form.php:59
+msgid "Form Sub Title"
+msgstr ""
+
+#: widgets/Modina_contact_form.php:70
+msgid "Form Upper Title - Heading"
+msgstr ""
+
+#: widgets/Modina_contact_form.php:138
+msgid "Form Title Color"
+msgstr ""
+
+#: widgets/Modina_contact_form.php:155
+msgid "Text Color"
+msgstr ""
+
+#: widgets/Modina_content_features.php:22
+msgid "Promo - Block Contents"
+msgstr ""
+
+#: widgets/Modina_content_features.php:43
+msgid "Promo Images"
+msgstr ""
+
+#: widgets/Modina_content_features.php:49 widgets/Modina_site_cta.php:48
+msgid "Upload Image"
+msgstr ""
+
+#: widgets/Modina_content_features.php:73 widgets/Modina_promo_box.php:52
+msgid "Upload Icon"
+msgstr ""
+
+#: widgets/Modina_content_features.php:95
+msgid "Features Text"
+msgstr ""
+
+#: widgets/Modina_content_features.php:185
+msgid "Before Background - Style Hide?"
+msgstr ""
+
+#: widgets/Modina_events.php:25
+msgid "Events Carousel"
+msgstr ""
+
+#: widgets/Modina_events_card.php:25
+msgid "Events Card"
+msgstr ""
+
+#: widgets/Modina_events_card.php:112
+msgid "Book Your Seat"
+msgstr ""
+
+#: widgets/Modina_funfact.php:22
+msgid "Fun Fact"
+msgstr ""
+
+#: widgets/Modina_funfact.php:42
+msgid "All Fun Fact"
+msgstr ""
+
+#: widgets/Modina_funfact.php:72
+msgid "Countdown Digit"
+msgstr ""
+
+#: widgets/Modina_funfact.php:82
+msgid "Total ( K, M, B )?"
+msgstr ""
+
+#: widgets/Modina_funfact.php:92
+msgid "All Funfacts"
+msgstr ""
+
+#: widgets/Modina_funfact.php:135
+msgid "Funfact Styles"
+msgstr ""
+
+#: widgets/Modina_funfact.php:152
+msgid "Digits Color"
+msgstr ""
+
+#: widgets/Modina_funfact.php:204
+msgid "Section Margin"
+msgstr ""
+
+#: widgets/Modina_givewp_causes.php:21
+msgid "Causes Grid - Donations"
+msgstr ""
+
+#: widgets/Modina_givewp_causes.php:49 widgets/Modina_hero.php:51
+#: widgets/Modina_news_feeds.php:59 widgets/Modina_video.php:57
+msgid "Style One"
+msgstr ""
+
+#: widgets/Modina_givewp_causes.php:50 widgets/Modina_hero.php:52
+#: widgets/Modina_news_feeds.php:60 widgets/Modina_video.php:58
+msgid "Style Two"
+msgstr ""
+
+#: widgets/Modina_givewp_causes.php:51 widgets/Modina_hero.php:53
+#: widgets/Modina_news_feeds.php:61
+msgid "Style Three"
+msgstr ""
+
+#: widgets/Modina_grid_gallery.php:21 widgets/Modina_grid_gallery.php:42
+msgid "Grid Gallery"
+msgstr ""
+
+#: widgets/Modina_grid_gallery.php:51
+msgid "Image Upload"
+msgstr ""
+
+#: widgets/Modina_grid_gallery.php:63
+msgid "Gallery Images"
+msgstr ""
+
+#: widgets/Modina_grid_gallery.php:100
+msgid "Years Box Background"
+msgstr ""
+
+#: widgets/Modina_grid_gallery.php:130
+msgid "Years Experience"
+msgstr ""
+
+#: widgets/Modina_hero.php:20
+msgid "Hero - Sliders"
+msgstr ""
+
+#: widgets/Modina_hero.php:64
+msgid "Slider - Hero"
+msgstr ""
+
+#: widgets/Modina_hero.php:72
+msgid "Slide Background Image"
+msgstr ""
+
+#: widgets/Modina_hero.php:94
+msgid "Sub Heading Text"
+msgstr ""
+
+#: widgets/Modina_hero.php:104
+msgid "Button Title - Active"
+msgstr ""
+
+#: widgets/Modina_hero.php:127 widgets/Modina_join_us_cta.php:130
+msgid "Button Text - Normal"
+msgstr ""
+
+#: widgets/Modina_hero.php:150
+msgid "Want Popup Video? Select Style-3."
+msgstr ""
+
+#: widgets/Modina_hero.php:160
+msgid "Video Link - Youtube"
+msgstr ""
+
+#: widgets/Modina_hero.php:173
+msgid "All Slides"
+msgstr ""
+
+#: widgets/Modina_hero.php:205
+msgid "Slide Style"
+msgstr ""
+
+#: widgets/Modina_hero.php:246 widgets/Modina_join_us_cta.php:162
+msgid "Button Text Color - Active"
+msgstr ""
+
+#: widgets/Modina_hero.php:256 widgets/Modina_hero.php:276
+#: widgets/Modina_join_us_cta.php:172 widgets/Modina_join_us_cta.php:192
+msgid "Button Background Color"
+msgstr ""
+
+#: widgets/Modina_hero.php:266 widgets/Modina_join_us_cta.php:182
+msgid "Button Text Color - Normal"
+msgstr ""
+
+#: widgets/Modina_hero.php:290
+msgid "Slide Background Color"
+msgstr ""
+
+#: widgets/Modina_hero.php:297 widgets/Modina_join_us_cta.php:215
+msgid "Background Color"
+msgstr ""
+
+#: widgets/Modina_hero.php:310
+msgid "Slide Padding"
+msgstr ""
+
+#: widgets/Modina_icon_box.php:21
+msgid "Box Grid (Fundbux)"
+msgstr ""
+
+#: widgets/Modina_icon_box.php:42
+msgid "Icon Box Item"
+msgstr ""
+
+#: widgets/Modina_icon_box.php:51
+msgid "Image"
+msgstr ""
+
+#: widgets/Modina_icon_box.php:94
+msgid "All Icon Box"
+msgstr ""
+
+#: widgets/Modina_icon_box.php:119
+msgid "Box Item Style"
+msgstr ""
+
+#: widgets/Modina_icon_box.php:126
+msgid "Box Name Color"
+msgstr ""
+
+#: widgets/Modina_icon_box.php:143
+msgid "Box Item Margin"
+msgstr ""
+
+#: widgets/Modina_join_us_cta.php:26
+msgid "Join Us - CTA"
+msgstr ""
+
+#: widgets/Modina_join_us_cta.php:50
+msgid "Join Us - Banner Contents"
+msgstr ""
+
+#: widgets/Modina_join_us_cta.php:57 widgets/Modina_section_title.php:22
+msgid "Section Title"
+msgstr ""
+
+#: widgets/Modina_join_us_cta.php:67
+msgid "Sub Title"
+msgstr ""
+
+#: widgets/Modina_join_us_cta.php:76
+msgid "Banner - Background"
+msgstr ""
+
+#: widgets/Modina_join_us_cta.php:88
+msgid "Section Background - Style Hide?"
+msgstr ""
+
+#: widgets/Modina_join_us_cta.php:100
+msgid "Banner Buttons"
+msgstr ""
+
+#: widgets/Modina_join_us_cta.php:107
+msgid "Button Text - Active"
+msgstr ""
+
+#: widgets/Modina_join_us_cta.php:155
+msgid "Button Style"
+msgstr ""
+
+#: widgets/Modina_news_feeds.php:27 wp-widgets/Modina_Recent_Posts.php:48
+msgid "News Feeds"
+msgstr ""
+
+#: widgets/Modina_news_feeds.php:166
+msgid "Content Length"
+msgstr ""
+
+#: widgets/Modina_news_feeds.php:177
+msgid "Show Read More Button?"
+msgstr ""
+
+#: widgets/Modina_news_feeds.php:187
+msgid "Read More Button Text"
+msgstr ""
+
+#: widgets/Modina_news_feeds.php:189 widgets/Modina_news_feeds.php:190
+msgid "Read More"
+msgstr ""
+
+#: widgets/Modina_news_feeds.php:205
+msgid "Latest News"
+msgstr ""
+
+#: widgets/Modina_news_feeds.php:236
+msgid "Info Color"
+msgstr ""
+
+#: widgets/Modina_news_feeds.php:258
+msgid "Button Color"
+msgstr ""
+
+#: widgets/Modina_news_feeds.php:271
+msgid "Button Hover Color"
+msgstr ""
+
+#: widgets/Modina_news_feeds.php:292
+msgid "Section - Background"
+msgstr ""
+
+#: widgets/Modina_promo_box.php:22
+msgid "Promo - Box Card"
+msgstr ""
+
+#: widgets/Modina_promo_box.php:44
+msgid "Promo Donation Box"
+msgstr ""
+
+#: widgets/Modina_promo_box.php:64
+msgid "Headline"
+msgstr ""
+
+#: widgets/Modina_promo_box.php:83
+msgid "Box Background Upload"
+msgstr ""
+
+#: widgets/Modina_promo_box.php:120
+msgid "All Promo Card"
+msgstr ""
+
+#: widgets/Modina_section_title.php:132
+msgid "Section Text Content"
+msgstr ""
+
+#: widgets/Modina_services.php:21
+msgid "Service Box"
+msgstr ""
+
+#: widgets/Modina_services.php:42
+msgid "Service Item Box"
+msgstr ""
+
+#: widgets/Modina_services.php:62
+msgid "Service Title"
+msgstr ""
+
+#: widgets/Modina_services.php:72
+msgid "Service Info"
+msgstr ""
+
+#: widgets/Modina_services.php:82 widgets/Modina_team.php:206
+msgid "Button Text"
+msgstr ""
+
+#: widgets/Modina_services.php:105 widgets/Modina_team.php:95
+msgid "All Services"
+msgstr ""
+
+#: widgets/Modina_services.php:136
+msgid "Service Item Style"
+msgstr ""
+
+#: widgets/Modina_services.php:143
+msgid "Service Name Color"
+msgstr ""
+
+#: widgets/Modina_services.php:153
+msgid "Service Item Margin"
+msgstr ""
+
+#: widgets/Modina_site_cta.php:21
+msgid "Site Info CTA"
+msgstr ""
+
+#: widgets/Modina_site_cta.php:42
+msgid "Logo"
+msgstr ""
+
+#: widgets/Modina_site_cta.php:67 widgets/Modina_site_cta.php:203
+msgid "Email Address"
+msgstr ""
+
+#: widgets/Modina_site_cta.php:77 widgets/Modina_site_cta.php:210
+msgid "Phone Number"
+msgstr ""
+
+#: widgets/Modina_site_cta.php:91
+msgid "Social Page Links"
+msgstr ""
+
+#: widgets/Modina_site_cta.php:98 wp-widgets/Modina_About_Me.php:115
+#: wp-widgets/Modina_Get_In_Touch.php:172 wp-widgets/Modina_Social_Icons.php:82
+msgid "Facebook Link"
+msgstr ""
+
+#: widgets/Modina_site_cta.php:110 wp-widgets/Modina_About_Me.php:119
+#: wp-widgets/Modina_Get_In_Touch.php:176 wp-widgets/Modina_Social_Icons.php:86
+msgid "Twitter Link"
+msgstr ""
+
+#: widgets/Modina_site_cta.php:122
+msgid "Behance Link"
+msgstr ""
+
+#: widgets/Modina_site_cta.php:134 wp-widgets/Modina_About_Me.php:127
+#: wp-widgets/Modina_Get_In_Touch.php:184 wp-widgets/Modina_Social_Icons.php:94
+msgid "Youtube Link"
+msgstr ""
+
+#: widgets/Modina_site_cta.php:155
+msgid "Section Bottom BG Color"
+msgstr ""
+
+#: widgets/Modina_skillbar.php:21
+msgid "Skillbar - Circle"
+msgstr ""
+
+#: widgets/Modina_skillbar.php:42
+msgid "Skillbar Circle"
+msgstr ""
+
+#: widgets/Modina_skillbar.php:51
+msgid "Skill Title"
+msgstr ""
+
+#: widgets/Modina_skillbar.php:61
+msgid "Skill Percent?"
+msgstr ""
+
+#: widgets/Modina_skillbar.php:71
+msgid "Skill Bar Color?"
+msgstr ""
+
+#: widgets/Modina_skillbar.php:81
+msgid "All Skill Circle"
+msgstr ""
+
+#: widgets/Modina_skillbar.php:97
+msgid "Skillbar Item Style"
+msgstr ""
+
+#: widgets/Modina_skillbar.php:104
+msgid "Skill Title Color"
+msgstr ""
+
+#: widgets/Modina_team.php:24
+msgid "Our Team"
+msgstr ""
+
+#: widgets/Modina_team.php:44
+msgid "All Volunteers"
+msgstr ""
+
+#: widgets/Modina_team.php:53
+msgid "Profile Photo"
+msgstr ""
+
+#: widgets/Modina_team.php:64
+msgid "Volunteer Name"
+msgstr ""
+
+#: widgets/Modina_team.php:74
+msgid "Volunteer Position"
+msgstr ""
+
+#: widgets/Modina_team.php:84
+msgid "Active / Hover Effect - Volunteer"
+msgstr ""
+
+#: widgets/Modina_team.php:136
+msgid "Volunteers Styles"
+msgstr ""
+
+#: widgets/Modina_team.php:143
+msgid "Name Color"
+msgstr ""
+
+#: widgets/Modina_team.php:153
+msgid "Position Color"
+msgstr ""
+
+#: widgets/Modina_team.php:170
+msgid "Margin"
+msgstr ""
+
+#: widgets/Modina_team.php:188
+msgid "Join Us - Button"
+msgstr ""
+
+#: widgets/Modina_team.php:195
+msgid "Show - \"Join With Us\" Button?"
+msgstr ""
+
+#: widgets/Modina_team.php:282 widgets/Modina_team.php:336
+msgid "Border"
+msgstr ""
+
+#: widgets/Modina_timeline.php:22
+msgid "Timeline Carousel"
+msgstr ""
+
+#: widgets/Modina_timeline.php:42
+msgid "Timeline Achieve"
+msgstr ""
+
+#: widgets/Modina_timeline.php:49
+msgid "How Many Item Show?"
+msgstr ""
+
+#: widgets/Modina_timeline.php:63
+msgid "Event Image"
+msgstr ""
+
+#: widgets/Modina_timeline.php:74
+msgid "Event Year"
+msgstr ""
+
+#: widgets/Modina_timeline.php:84
+msgid "Event Title"
+msgstr ""
+
+#: widgets/Modina_timeline.php:94
+msgid "All Events"
+msgstr ""
+
+#: widgets/Modina_timeline.php:160
+msgid "Timeline Item Style"
+msgstr ""
+
+#: widgets/Modina_timeline.php:167
+msgid "Year Color"
+msgstr ""
+
+#: widgets/Modina_timeline.php:195 widgets/Modina_video.php:214
+msgid "Section Background Image"
+msgstr ""
+
+#: widgets/Modina_tribe_events.php:25
+msgid "Events Carousel - Tribe"
+msgstr ""
+
+#: widgets/Modina_video.php:25
+msgid "Video Section"
+msgstr ""
+
+#: widgets/Modina_video.php:147
+msgid "Video Options"
+msgstr ""
+
+#: widgets/Modina_video.php:154
+msgid "Video Link - URL"
+msgstr ""
+
+#: widgets/Modina_video.php:164
+msgid "Video Button Text"
+msgstr ""
+
+#: widgets/Modina_video.php:173
+msgid "Video Button BG Color"
+msgstr ""
+
+#: widgets/Modina_video.php:183
+msgid "Video Button Color"
+msgstr ""
+
+#: widgets/Modina_video.php:193
+msgid "Video Text Color"
+msgstr ""
+
+#: widgets/blog/style-one.php:39 widgets/blog/style-one.php:76
+msgid "By"
+msgstr ""
+
+#: widgets/cause/style-three.php:71
+msgid "Donate"
+msgstr ""
+
+#: wp-widgets/Modina_About_Me.php:13
+msgid "(FundBux) Author Box"
+msgstr ""
+
+#: wp-widgets/Modina_About_Me.php:22
+msgid "About Me"
+msgstr ""
+
+#: wp-widgets/Modina_About_Me.php:90 wp-widgets/Modina_Get_In_Touch.php:131
+#: wp-widgets/Modina_Social_Icons.php:77
+msgid "Widget Title:"
+msgstr ""
+
+#: wp-widgets/Modina_About_Me.php:104
+msgid "Author Name"
+msgstr ""
+
+#: wp-widgets/Modina_About_Me.php:110
+msgid "Author Info"
+msgstr ""
+
+#: wp-widgets/Modina_About_Me.php:123 wp-widgets/Modina_Get_In_Touch.php:180
+#: wp-widgets/Modina_Social_Icons.php:90
+msgid "Instagram Link"
+msgstr ""
+
+#: wp-widgets/Modina_About_Me.php:131 wp-widgets/Modina_Get_In_Touch.php:192
+#: wp-widgets/Modina_Social_Icons.php:102
+msgid "Dribble Link"
+msgstr ""
+
+#: wp-widgets/Modina_Get_In_Touch.php:13
+msgid "(FundBux) Get In Touch"
+msgstr ""
+
+#: wp-widgets/Modina_Get_In_Touch.php:22
+msgid "Get In Touch"
+msgstr ""
+
+#: wp-widgets/Modina_Get_In_Touch.php:139
+msgid "Phone Number 1:"
+msgstr ""
+
+#: wp-widgets/Modina_Get_In_Touch.php:145
+msgid "Phone Number 2:"
+msgstr ""
+
+#: wp-widgets/Modina_Get_In_Touch.php:151
+msgid "Email Address 1:"
+msgstr ""
+
+#: wp-widgets/Modina_Get_In_Touch.php:157
+msgid "Email Address 2:"
+msgstr ""
+
+#: wp-widgets/Modina_Get_In_Touch.php:163
+msgid "Office Address:"
+msgstr ""
+
+#: wp-widgets/Modina_Get_In_Touch.php:188 wp-widgets/Modina_Social_Icons.php:98
+msgid "LinkedIn Link"
+msgstr ""
+
+#: wp-widgets/Modina_Popular_Posts.php:27
+msgid "Your Site&#8217;s Most Popular Posts."
+msgstr ""
+
+#: wp-widgets/Modina_Popular_Posts.php:30
+msgid "(FundBux) Popular Feeds"
+msgstr ""
+
+#: wp-widgets/Modina_Popular_Posts.php:47
+msgid "Popular Feeds"
+msgstr ""
+
+#: wp-widgets/Modina_Popular_Posts.php:91 wp-widgets/Modina_Recent_Posts.php:89
+msgid "(no title)"
+msgstr ""
+
+#: wp-widgets/Modina_Popular_Posts.php:145
+#: wp-widgets/Modina_Recent_Posts.php:141
+msgid "Title:"
+msgstr ""
+
+#: wp-widgets/Modina_Popular_Posts.php:148
+#: wp-widgets/Modina_Recent_Posts.php:144
+msgid "Number of posts to show:"
+msgstr ""
+
+#: wp-widgets/Modina_Popular_Posts.php:152
+#: wp-widgets/Modina_Recent_Posts.php:148
+msgid "Display post date?"
+msgstr ""
+
+#: wp-widgets/Modina_Recent_Posts.php:27
+msgid "Your Site&#8217;s Most Recent Posts."
+msgstr ""
+
+#: wp-widgets/Modina_Recent_Posts.php:30
+msgid "(FundBux) Recent Posts"
+msgstr ""
+
+#: wp-widgets/Modina_Social_Icons.php:13
+msgid "(FundBux) Social Icons Link"
+msgstr ""
+
+#: wp-widgets/Modina_Social_Icons.php:22
+msgid "Never Miss News"
+msgstr ""

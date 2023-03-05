@@ -1,0 +1,33 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">event_location</custom-field>
+        <custom-field action="translate">event_start_time</custom-field>
+        <custom-field action="translate">event_end_time</custom-field>
+        <custom-field action="translate">event_mobile_number</custom-field>
+        <custom-field action="translate">guest_name</custom-field>
+        <custom-field action="translate">guest_profession</custom-field>
+        <custom-field action="translate">event_date</custom-field>
+    </custom-fields>
+
+    <admin-texts>
+        <key name="fundbux_opt">
+          <key name="error_title"/>
+          <key name="error_subtitle"/>
+          <key name="error_btn_label"/>
+          <key name="menu_btn_label"/>
+          <key name="blog_title"/>
+          <key name="share_heading"/>
+          <key name="footer_copyright_content"/>
+          <key name="preloader_title"/>
+          <key name="loading_text"/>
+          <key name="phone_number"/>
+          <key name="email_addres"/>
+          <key name="main_text_logo"/>
+          <key name="menu"/>
+          <key name="menu"/>
+          <key name="menu"/>
+          <key name="menu"/>
+        </key>
+    </admin-texts>
+
+</wpml-config>
