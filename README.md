@@ -7,6 +7,9 @@
 	- telegram =>https://t.me/YGBrandMaker
 
 ##  Fundbux - Charity & Fundraise WordPress Theme
+- Nonprofit WordPress Theme (Fundbux) is a perfect nonprofit theme for charity and nonprofit purposes. This Nonprofit WP theme is suitable for any donation charity, nonprofit organization, fundraising, crowdfunding, fundraising, .
+
+
 
 - Additionally, 1 click installation import, you can import all 03+ prebuilt charity homepage demos and other useful inner pages. They can be imported quickly for your website. This charity theme is also responsive, well-optimized for SEO & Speed, Attractive campaigns, .. And more? Let’s discover all outstanding charity nonprofit features Fundbux include!
 
